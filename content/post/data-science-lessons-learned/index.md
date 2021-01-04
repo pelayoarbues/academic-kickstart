@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Online Resources for Social Scientists"
+title: "Data Science Lessons Learned"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-02-04T20:01:01+01:00
-lastmod: 2020-02-04T20:01:01+01:00
+date: 2020-06-08T21:10:48+02:00
+lastmod: 2020-06-08T21:10:48+02:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,11 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-
-Missing Semester in CS: https://missing.csail.mit.edu/
-The plain Person's Guide to plain text Social Science: http://plain-text.co/index.html#introduction
-sql: https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about
-sql playground: https://sqlzoo.net/
-
-

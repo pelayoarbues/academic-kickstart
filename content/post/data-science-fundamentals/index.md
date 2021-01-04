@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: 2021-01-04T10:40:09+01:00
 lastmod: 2021-01-04T10:40:09+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -30,4 +30,4 @@ projects: []
 
 Fundamentals of Data Science is a collection of selected resources aimed at providing a solid background for aspiring and junior Data Scientists. The objective is to create a list as small and powerful as possible. There are thousands of sources out there and it is sometimes difficult to focus on what's important.
 
-The list is open for new submissions and changes so I keep it updated on the following [Notion Link](https://www.notion.so/Fundamentals-of-Data-Science-894833c89f334421bdf437062f84d4bf).
+The list is open for new submissions and changes so I keep it updated on the following [Notion Link](https://www.notion.so/Fundamentals-of-Data-Science-894833c89f334421bdf437062f84d4bf)

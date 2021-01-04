@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist
+role: Head of Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: idealista/data
-  url: "https://www.idealista.com/data/"
+- name: idealista
+  url: "https://www.idealista.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Urban Economics, Spatial Data Science and Real Estate Valuation Models.

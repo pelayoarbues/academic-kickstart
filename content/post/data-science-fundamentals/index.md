@@ -32,7 +32,7 @@ Fundamentals of Data Science is a collection of selected resources aimed at prov
 
 The list is open for new submissions and changes so I keep it updated on the following Notion Link:
 
-  - icon_pack: fab
-    icon: notion
+  - icon_pack: fas
+    icon: external-link
     name: Originally published on Notion
     url: 'https://www.notion.so/Fundamentals-of-Data-Science-894833c89f334421bdf437062f84d4bf'

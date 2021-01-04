@@ -18,19 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Head of Data Science"
+  company = "idealista"
+  company_url = "www.idealista.com"
+  location = "Madrid"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Manage people
+  * Team growth
+  * Data Analysis Evangelism
+  * Shape good data analisys practices
+  * Machine Learning consulting
+  
+  """
+
+[[experience]]
   title = "Senior Data Scientist"
   company = "idealista"
   company_url = "www.idealista.com/data"
   location = "Madrid"
   date_start = "2018-07-01"
-  date_end = ""
+  date_end = "2020-10-31"
   description = """
   Responsibilities include:
   
   * Team management
   * Data Analysis
   * Machine Learning Modelling
-  * Deploying
+  * MLOps
   
   """
   

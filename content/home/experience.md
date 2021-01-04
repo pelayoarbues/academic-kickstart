@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsabilities include:
   
   * Manage people
   * Team growth
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2020-10-31"
   description = """
-  Responsibilities include:
+  Responsabilities include:
   
   * Team management
   * Data Analysis

@@ -10,7 +10,7 @@ address:
   region:
   postcode:
   country:
-summary: Seminar on practical lessons learned while using Data Science
+summary: Entrevista en el Podcast Pensamiento Digital de Frankie Carrero
 abstract: En este episodio contamos con Pelayo Arbués, Senior Data Scientist en Idealista/Data, para hablar sobre Data Science, tipos de proyectos que se llevan a cabo en la industria y la formación necesaria para poder dedicarse a ellos.
 
 # Talk start and end times.

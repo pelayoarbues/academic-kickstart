@@ -4,3 +4,10 @@
 # Hugo
 resources/
 public/
+.Rproj.user
+
+content/post/data-science-fundamentals/.DS_Store
+
+content/post/.DS_Store
+
+.DS_Store
